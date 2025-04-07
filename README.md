@@ -10,14 +10,6 @@ A professional, fast, and scalable **service-based web application MVP** built w
 
 ---
 
-## 📸 Screenshots
-
-| Home Page | Services Page | Contact Page |
-|----------|----------------|---------------|
-| ![Home](./public/screenshots/home.png) | ![Services](./public/screenshots/services.png) | ![Contact](./public/screenshots/contact.png) |
-
----
-
 ## 🛠️ Tech Stack
 
 | Layer        | Tech                            |
