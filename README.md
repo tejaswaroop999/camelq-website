@@ -6,7 +6,7 @@ A professional, fast, and scalable **service-based web application MVP** built w
 
 ## 🔗 Live Demo
 
-🚀 [Live Site](camelq1.netlify.app) 
+🚀 [Live Site](https://camelq1.netlify.app/) 
 
 ---
 
