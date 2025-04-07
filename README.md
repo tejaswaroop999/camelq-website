@@ -86,23 +86,23 @@ Visit: http://localhost:3000
 CamelQ Advanced supports Netlify, Vercel, and Render for CI/CD deployments.
 
 Netlify Setup
-Push code to GitHub.
+1.Push code to GitHub.
 
-Log in to Netlify, click "Import from Git".
+2.Log in to Netlify, click "Import from Git".
 
-Add environment variable: MONGODB_URI.
+3.Add environment variable: MONGODB_URI.
 
-Set build command: next build
+4.Set build command: next build
 
-Set publish directory: .next (or out if exporting)
+5.Set publish directory: .next (or out if exporting)
 
 🔌 API Endpoints
-Method	Endpoint	Description
-POST	/api/contact	Submit contact form
-POST	/api/careers	Submit job application
-GET	/api/clients	Fetch client list
-GET	/api/projects	Fetch portfolio items
-GET	/api/team	Fetch team data
+Method	 Endpoint	      Description
+POST	 /api/contact	    Submit contact form
+POST	 /api/careers	    Submit job application
+GET	   /api/clients	    Fetch client list
+GET  	 /api/projects	  Fetch portfolio items
+GET	   /api/team	      Fetch team data
 
 💡 SEO & Performance
 ✅ Uses SSR and SSG via Next.js
@@ -117,6 +117,7 @@ GET	/api/team	Fetch team data
 
 📣 Contributing
 Contributions are welcome! To get started:
+
 # Fork the repo
 # Create a new branch
 git checkout -b feature/YourFeature
@@ -134,25 +135,16 @@ git push origin feature/YourFeature
 
 >Form not submitting: Check API route in app/api/contact/route.ts.
 
-🧑‍💻 Developer
-Gaurav
-Full Stack & AI Developer
-
->💼 LinkedIn
-
->🌐 Portfolio: Coming soon
-
->✉️ Email: yourname@example.com
 
 🙏 Acknowledgements
 
->Next.js
+Next.js
 
->TailwindCSS
+TailwindCSS
 
->Framer Motion
+Framer Motion
 
->MongoDB
+MongoDB
 
 
 
